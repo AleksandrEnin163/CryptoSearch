@@ -1,1 +1,1 @@
-## [Adaptive and responsive ReactApp with the actual data of cryptocurrencies and search function](https://github.com/AleksandrEnin163/CryptoSearch)
+## [Adaptive and responsive ReactApp with the actual data of cryptocurrencies and search function](https://aleksandrenin163.github.io/CryptoSearch/)
